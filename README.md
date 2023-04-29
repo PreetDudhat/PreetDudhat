@@ -2,7 +2,9 @@
 <img align = "center" alt="Coding"  src="https://github.com/PreetDudhat/Images/blob/68419f892e32486c68dd25e88811a16e48a381d0/room.jpg"> 
 <h2>Tech Alchemist (Developer/Creator)</h2>
 
-"I'm an indie programmer building my version of the digital world one step at a time. With each coding project, I start from the ground up - planning, designing, and building from scratch. My passion is using code to solve real-life problems and make a positive impact. Join me on this journey as we create something truly remarkable, one line of code at a time."
+I'm an indie programmer building my version of the digital world one step at a time. With each coding project, I start from the ground up - planning, designing, and building from scratch. My passion is using code to solve real-life problems and make a positive impact. Join me on this journey as we create something truly remarkable, one line of code at a time.
+
+- 🤖 I love working with data and exploring the power of cloud platforms to solve complex problems. My interests in data science and cloud computing have led me to pursue exciting projects, both in and out of the classroom.
 
 - 🔭 I’m currently working on **Self-Website with AI chatbot using AWS**
 
@@ -10,11 +12,9 @@
 
 - 💬 Ask me about **Cloud, Data Science, AI, ML, Web Scraping, GCP, AWS, Privacy in IT, SQL,**
 
-- 📫 How to reach me **preet.dudhat27@gmail.com**
-
-- 🤖 I love working with data and exploring the power of cloud platforms to solve complex problems. My interests in data science and cloud computing have led me to pursue exciting projects, both in and out of the classroom.
-
 - 🎨 When I'm not coding or analyzing data, I love to express my creativity through photo and video art. I find that exploring my artistic side is a great way to unwind and balance out my technical work.
+
+- 📫 How to reach me **preet.dudhat27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
