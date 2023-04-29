@@ -12,6 +12,10 @@
 
 - 📫 How to reach me **preet.dudhat27@gmail.com**
 
+- 🤖 I love working with data and exploring the power of cloud platforms to solve complex problems. My interests in data science and cloud computing have led me to pursue exciting projects, both in and out of the classroom.
+
+- 🎨 When I'm not coding or analyzing data, I love to express my creativity through photo and video art. I find that exploring my artistic side is a great way to unwind and balance out my technical work.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/preet dudhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preet dudhat" height="30" width="40" /></a>
